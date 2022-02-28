@@ -1,0 +1,19 @@
+id: P9AFFE39B
+initial_creation_type: input
+source_metadata:
+  title: Tsarchen Losal Gyatso
+  language: en
+  description: 'Texts by and about Tsarchen Losal Gyatso (tshar chen blo gsal rgya
+    mtsho, 1502-1567), an important master of the Sakya tradition:'
+  volume:
+    77cc5815ec5e47dbb0a59deda87d2024:
+      title: Prayer to Tsarchen Losal Gyatso
+      parent: Prayers
+    9a400cf14b044413b1ada281b4096bd9:
+      title: 'The Revelling Ocean of Blessings: A Prayer to Tsarchen Dorje Chang'
+      parent: Prayers
+    2274b2ae7fb545e487be289a9b5d4b05:
+      title: An Aspirational Prayer to Behold the Beautiful Face of Khecharī
+      parent: Vajrayoginī
+created_at: '2022-03-01T01:54:45.360688'
+last_modified_at: '2022-03-01T01:54:45.360694'
